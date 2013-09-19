@@ -12,3 +12,8 @@ liitto rp:n ja sen jäsenyhdistysten käyttöön.
 
 
 
+## Käyttöönotto
+ - asenna WordPress
+ - asenna Responsive -teema
+ - asenna tämä teema
+
