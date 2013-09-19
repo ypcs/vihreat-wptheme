@@ -10,6 +10,8 @@ Pohjautuu [Responsive](http://wordpress.org/themes/responsive) -teemaan
 Koodi lisensoitu GPLv2 alaisuudessa. Graafiset elementit vain Vihreä 
 liitto rp:n ja sen jäsenyhdistysten käyttöön.
 
+**HUOM: Teema ei ole valmis käyttöön, jäsenyhdistyksille tiedotetaan 
+erikseen, kun kehitystyö on edennyt**
 
 
 ## Käyttöönotto
