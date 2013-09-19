@@ -1,0 +1,11 @@
+/*
+ Theme Name: Vihreät wptheme
+ Theme URI: https://github.com/vihreat/vihreat-wptheme
+ Description: Vihreä liitto rp:n jäsenyhdistysten ja jäsenten käyttöön tarkoitettu teema.
+ Author: Vihreä liitto rp.
+ Author URI: http://www.vihreat.fi/
+ Template: responsive
+ Version: 0.0.1a
+ */
+
+@import url('../responsive/style.css');
